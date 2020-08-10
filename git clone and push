@@ -10,3 +10,7 @@ $ git remote add origin https://github.com/yourusername/bbq
 
 # Push to your remote GitHub repo
 $ git push origin master --set-upstream
+
+
+devops simple project
+https://github.com/onlineTrainingguy/Simple-DevOps-Project
