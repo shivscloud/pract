@@ -1,0 +1,12 @@
+# Clone the other person's repo.
+# MAKES A NEW FOLDER! CAUTION!
+$ git clone https://github.com/khalifenizar/bbq
+
+# Rename that person's remote GitHub repo.
+$ git remote rename origin khalifenizar
+
+# Add your remote GitHub repo
+$ git remote add origin https://github.com/yourusername/bbq
+
+# Push to your remote GitHub repo
+$ git push origin master --set-upstream
